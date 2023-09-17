@@ -1,0 +1,3 @@
+<launch>
+  <node name="sensor_data_simulation_node" pkg="sensor_pkg" type="sensor_data_simulation_node.py" output="screen" />
+</launch>
